@@ -1,0 +1,32 @@
+[
+    {
+        "id": "b4e93bd2-053b-4f3f-b574-dea37bfed266",
+        "image": "https://cdn.filestackcontent.com/1baZqjlPSjuJRG8v0EWo",
+        "title": "Học React",
+        "content": "Angular-cli sử dụng Webpack để bundle project của bạn, vì thế bạn hoàn toàn có thể sử dụng HMR để tăng tốc quá trình build app trong lúc lập trình (tức là lúc bạn sửa một dòng code, thay vì phải compile toàn bộ các module thì nó chỉ compile các module bị ảnh hưởng bởi dòng code đó mà thôi)."
+    },
+	{
+        "id": "b4e93bd2-053b-4f3f-b574-dea37bfed266",
+        "image": "https://cdn.filestackcontent.com/1baZqjlPSjuJRG8v0EWo",
+        "title": "Học Angular",
+        "content": "Angular-cli sử dụng Webpack để bundle project của bạn, vì thế bạn hoàn toàn có thể sử dụng HMR để tăng tốc quá trình build app trong lúc lập trình (tức là lúc bạn sửa một dòng code, thay vì phải compile toàn bộ các module thì nó chỉ compile các module bị ảnh hưởng bởi dòng code đó mà thôi)."
+    },
+	{
+        "id": "b4e93bd2-053b-4f3f-b574-dea37bfed266",
+        "image": "https://cdn.filestackcontent.com/1baZqjlPSjuJRG8v0EWo",
+        "title": "Học Angular",
+        "content": "Angular-cli sử dụng Webpack để bundle project của bạn, vì thế bạn hoàn toàn có thể sử dụng HMR để tăng tốc quá trình build app trong lúc lập trình (tức là lúc bạn sửa một dòng code, thay vì phải compile toàn bộ các module thì nó chỉ compile các module bị ảnh hưởng bởi dòng code đó mà thôi)."
+    },
+	{
+        "id": "b4e93bd2-053b-4f3f-b574-dea37bfed266",
+        "image": "https://cdn.filestackcontent.com/1baZqjlPSjuJRG8v0EWo",
+        "title": "Học Angular",
+        "content": "Angular-cli sử dụng Webpack để bundle project của bạn, vì thế bạn hoàn toàn có thể sử dụng HMR để tăng tốc quá trình build app trong lúc lập trình (tức là lúc bạn sửa một dòng code, thay vì phải compile toàn bộ các module thì nó chỉ compile các module bị ảnh hưởng bởi dòng code đó mà thôi)."
+    },
+	{
+        "id": "b4e93bd2-053b-4f3f-b574-dea37bfed266",
+        "image": "https://cdn.filestackcontent.com/1baZqjlPSjuJRG8v0EWo",
+        "title": "Học Angular",
+        "content": "Angular-cli sử dụng Webpack để bundle project của bạn, vì thế bạn hoàn toàn có thể sử dụng HMR để tăng tốc quá trình build app trong lúc lập trình (tức là lúc bạn sửa một dòng code, thay vì phải compile toàn bộ các module thì nó chỉ compile các module bị ảnh hưởng bởi dòng code đó mà thôi)."
+    },
+]
